@@ -1,6 +1,3 @@
 # CaptureTheFlag
-Using “Custom Scripts” automation in Cortex XSOAR, remove below file and share the screenshot.
-C:\Users\318147\Music\CTF\Infected.zip
-
-Hint: Demisto Playground
-
+Download this file to your machine. The Next clue is inside this .zip
+WKSPUN-172373 = C:\Users\318147\Music\CTF\Infected.zip
